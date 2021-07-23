@@ -29,3 +29,5 @@ There are already lists of transport data, including:
 
 ## Travel survey data
 
+- [Australia - Victorian Integrated Survey of Travel and Activity](https://transport.vic.gov.au/about/data-and-research/vista/vista-data-and-publications)
+- [Australia - Queensland Household Travel Survey Series](https://www.data.qld.gov.au/dataset/queensland-household-travel-survey-series)
