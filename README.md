@@ -29,5 +29,10 @@ There are already lists of transport data, including:
 
 ## Travel survey data
 
-- [Australia - Victorian Integrated Survey of Travel and Activity](https://transport.vic.gov.au/about/data-and-research/vista/vista-data-and-publications)
-- [Australia - Queensland Household Travel Survey Series](https://www.data.qld.gov.au/dataset/queensland-household-travel-survey-series)
+
+| Country       | Region           | Description                                                                                                                                                                 | Link                                                                                   | Used in                                    |
+| ------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------ |
+| Australia     | Queensland state | Queensland Household Travel Survey Series                                                                                                                                   | https://www.data.qld.gov.au/dataset/queensland-household-travel-survey-series          |                                            |
+| Australia     | Victoria state   | Victorian Integrated Survey of Travel and Activity                                                                                                                          | https://transport.vic.gov.au/about/data-and-research/vista/vista-data-and-publications | https://github.com/matsim-melbourne/demand |
+| United States | Various states   | The Transportation Secure Data Center (TSDC) provides free access to detailed transportation data from a variety of travel surveys and studies conducted across the nation. | https://www.nrel.gov/transportation/secure-transportation-data/                        |                                            |
+
